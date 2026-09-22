@@ -58,3 +58,5 @@ A medida que el equipo de desarrollo escribe el código y configura la red, debe
 - [x] Implementar hashing de contraseñas con Argon2id.
 - [ ] Implementar Rate Limiting en la API.
 - [ ] Configurar las reglas de Firewall (Security Groups) para aislar la Base de Datos.
+
+Ya lo modifique homs
